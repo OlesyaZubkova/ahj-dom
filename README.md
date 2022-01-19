@@ -8,7 +8,7 @@
 
 ---
 
-### Перемещение элемента [![Build status](https://ci.appveyor.com/api/projects/status/vrl4vo53u7mglf79?svg=true)](https://ci.appveyor.com/project/OlesyaZubkova/ahj-dom)
+### Перемещение элемента [![Build status](https://ci.appveyor.com/api/projects/status/1seo5ru8o453j1n7?svg=true)](https://ci.appveyor.com/project/OlesyaZubkova/ahj-dom)
 
 
 #### Легенда
